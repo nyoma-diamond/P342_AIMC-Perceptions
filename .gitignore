@@ -1,0 +1,7 @@
+.idea/
+images/
+pdfs/
+venv/
+.DS_store
+
+data.csv
